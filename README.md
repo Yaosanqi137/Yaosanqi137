@@ -2,15 +2,12 @@
 
 ![](1.png)
 
-*<gray>我简陋的签名 </gray>* :(
+*<gray>It is my simple and crude signature* :frowning:
 
-*<gray>It is my simple and crude signature* :(
+# <center>:wave: About Me :wave:</center>
 
-<Tabs>
-  <TabItem value="English" label="英文(English)" default>
-    
-  </TabItem>
+---
 
-  <TabItem value="Chinese" label="中文(Simplified Chinese)" default>
+My name is **Yaosanqi ( 妖三七 )**. I'm a Computer Science student in **Ocean University of China (中国海洋大学 OUC)** 
 
-  </TabItem>
+[![Yaosanqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaosanqi137)](https://github.com/anuraghazra/github-readme-stats)
