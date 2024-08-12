@@ -8,14 +8,23 @@
  <h1>:wave: About Me :wave:</h1>
 </div>
 
+![Static Badge](https://img.shields.io/badge/Super%20Miku%20Fans-39C5BB) ![Static Badge](https://img.shields.io/badge/我去-初音未来-39C5BB) ![Static Badge](https://img.shields.io/badge/Vscode-yyds-gold)
+
+
+
 ## Welcome To My Github!
 
+### My Brief Self-Introduction
 My name is **Yaosanqi ( 妖三七 )** :grinning:. I'm a Computer Science student in **Ocean University of China (中国海洋大学 OUC)** :mortar_board:
 
-I'm 18-year-old now, and I come from Meizhou in Guangdong province of China. I love to study computers since I was a pupil.
+I'm 18-year-old now, and I come from Meizhou in Guangdong province of China. I love to study computers since I was a pupil. For now, I'm studying Java, Python, C.
+
+
+
+
 
 ---
-## My GitHub Statistic
+## My GitHub Stats
 
 <div align="center">
   <a herf=""><img src="https://github-readme-stats.vercel.app/api?username=Yaosanqi137&theme=radical"></a>
