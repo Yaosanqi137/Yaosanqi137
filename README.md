@@ -22,8 +22,13 @@ I'm 18-year-old now, and I come from Meizhou in Guangdong province of China. I l
 </div>
 
 ---
-## My Social Account
+### :star_struck:My Social Account
 
 - :tv:**BiliBili**: [yao37](https://space.bilibili.com/363216678)
 - :penguin:**QQ**: 3212576603
 - :speaker:**Discord Name**: yao37
+
+### :mailbox:My Email:
+
+- Outlook: zxc18023571263@outlook.com
+- QQ Mail: 3212576603@QQ.com
