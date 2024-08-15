@@ -34,7 +34,7 @@ I'm 18-year-old now, and I come from Meizhou in Guangdong province of China. I l
 - :penguin:**QQ**: 3212576603
 - :speaker:**Discord Name**: yao37
 
-### :mailbox:My Email:
+### My Email:mailbox::
 
 - Outlook: zxc18023571263@outlook.com
 - QQ Mail: 3212576603@QQ.com
