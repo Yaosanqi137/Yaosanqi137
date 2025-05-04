@@ -18,7 +18,7 @@
 
 My name is **Yaosanqi ( 妖三七 )** :grinning:. I'm a Computer Science student in **Ocean University of China (中国海洋大学 OUC)** :mortar_board:
 
-I'm 18-year-old now, and I come from Meizhou in Guangdong province of China. I love to study computers since I was a pupil. For now, I'm studying Java, Python, C.
+I'm 19-year-old now, and I come from Meizhou in Guangdong province of China. I love to study computers since I was a pupil. For now, I'm studying Java, Python, C.
 
 ---
 ## My GitHub Stats 🏆
